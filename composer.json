@@ -1,0 +1,7 @@
+{
+  "require": {
+    "adhocore/cli": "^0.8.3",
+    "knplabs/github-api": "^2.13",
+    "php-http/guzzle6-adapter": "^1.1"
+  }
+}
